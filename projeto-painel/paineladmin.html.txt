@@ -1,5 +1,0 @@
-paineladmin/
-├── index.html
-├── admin.html
-├── style.css
-└── script.js
